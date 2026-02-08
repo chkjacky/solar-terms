@@ -2,6 +2,30 @@
 This project is not a solar-term calculation engine.
 All solar-term dates and times are programmatically retrieved from the Hong Kong Observatory and then automatically compiled into an `.ics` calendar file.
 
+### 🔧 How to Use
+As of February 8, 2026, the Hong Kong Observatory provides solar-term data only up to 2028.
+
+**1. Download and Import .ics Files
+Download the `.ics` files for the desired year and import it directly into your calendar application.**
+
+**2. Subscribe via URL
+Copy the link below and paste it into your calendar app to subscribe and receive automatic updates.**
+
+2026: 
+```
+https://raw.githubusercontent.com/chkjacky/solar-terms/refs/heads/main/solar-terms-2026.ics
+```
+
+2027:
+```
+https://raw.githubusercontent.com/chkjacky/solar-terms/refs/heads/main/solar-terms-2027.ics
+```
+
+2028:
+```
+https://raw.githubusercontent.com/chkjacky/solar-terms/refs/heads/main/solar-terms-2028.ics
+```
+
 ### ☀️ 24 Solar Terms
 From the Earth's perspective, the Sun moves through a year across the stars or celestial sphere along a path known as the ecliptic, which is measured in 360 degrees longitude. 
 
@@ -96,6 +120,31 @@ However, study shows that:
 ### 💬 簡介
 本專案並非節氣計算器。
 所有節氣的日期與時間皆是程式化地從香港天文台取得，並再自動編譯生成為 `.ics` 行事曆檔案。
+
+### 🔧 使用方式
+截至 2026年2月8日，香港天文台僅提供至 2028 年的節氣資料。
+
+**1. 下載 .ics 檔案並匯入行事曆
+下載對應年份的 .ics 檔案，直接匯入你的行事曆應用程式即可。**
+
+**2. 訂閱 URL
+複製以下連結，貼到你的行事曆應用程式中進行訂閱，即可自動獲取節氣更新。
+各年份連結：**
+
+2026: 
+```
+https://raw.githubusercontent.com/chkjacky/solar-terms/refs/heads/main/solar-terms-2026.ics
+```
+
+2027:
+```
+https://raw.githubusercontent.com/chkjacky/solar-terms/refs/heads/main/solar-terms-2027.ics
+```
+
+2028:
+```
+https://raw.githubusercontent.com/chkjacky/solar-terms/refs/heads/main/solar-terms-2028.ics
+```
 
 ### ☀️ 二十四節氣
 從地球觀測，太陽一年裡在恆星間或天球劃過的軌道稱為黃道，以 360 度黃經來量度。
